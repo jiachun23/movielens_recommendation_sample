@@ -1,2 +1,3 @@
 # movielens_recommendation_sample
-Sample Movie Recommendation algorithm using K-Nearest Neighbour
+1. Sample Movie Recommendation algorithm using K-Nearest Neighbour
+2. Sample Movie Recommendation algorithm using DCN - Retrieval Task
